@@ -1,3 +1,4 @@
+import React from 'react';
 import ReactSlider from "react-slider";
 import "./Hygrometer.css";
 

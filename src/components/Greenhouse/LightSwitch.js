@@ -1,3 +1,4 @@
+import React from 'react';
 import './LightSwitch.css';
 
 function LightSwitch() {

@@ -1,3 +1,4 @@
+import React from 'react';
 import './ClimateStats.css';
 
 function ClimateStats() {
