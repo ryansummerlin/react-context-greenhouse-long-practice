@@ -9,7 +9,7 @@ import ClimateStats from './ClimateStats';
 import { useTheme } from '../../context/ThemeContext';
 
 function Greenhouse() {
-  const { themeName, setThemeName } = useTheme();
+  const { themeName } = useTheme();
   const [theme, setTheme] = useState(dayImage);
 
   useEffect(() => {
